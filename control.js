@@ -246,19 +246,10 @@
         return p;
     }
 
-    // REFRESCAR LA PAGINA 
-    document.getElementById("refreshButton").addEventListener("click", function () {
-        location.reload();
-    });
 
 
 
-
-
-
-
-
-
+// aqui empieza el codigo para crear al grafica
     const ctx = document.getElementById('binomialChart').getContext('2d');
     let binomialChart;
 
