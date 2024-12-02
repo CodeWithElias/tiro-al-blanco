@@ -1,13 +1,12 @@
 # ANALISIS DE PROBABILIDAD EN EL JUEGO TIRO AL BLANCO UTILIZANDO LA DISTRIBUCION BINOMIAL
 
 <div align="center">
-  <img src="assets/logo.png" alt="MammoVision Logo" width="200"/>
+  <img src="assets/logo.png" alt="Distribución Binomial" width="200"/>
   <br>
   <p>
     <a href="#descripción">Descripción</a> •
     <a href="#características">Características</a> •
     <a href="#instalación">Instalación</a> •
-    <a href="#uso">Uso</a> •
     <a href="#tecnologías">Tecnologías</a> •
   </p>
 </div>
