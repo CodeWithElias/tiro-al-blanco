@@ -56,13 +56,13 @@ acierto.
 
 ### Análisis de Resultados
 
--**Interpretación de Probabilidades**: Se calcularán las probabilidades de
+- **Interpretación de Probabilidades**: Se calcularán las probabilidades de
 diferentes cantidades de aciertos utilizando la distribución binomial. Esto
 permitirá entender la dispersión y la varianza en los resultados.
--**Comparación de Escenarios**: Se compararán las probabilidades de aciertos
+- **Comparación de Escenarios**: Se compararán las probabilidades de aciertos
 bajo diferentes escenarios, como variaciones en la distancia al blanco y otros
 más.
--**Identificación de Variables Críticas**: Se identificará qué variables tienen un
+- **Identificación de Variables Críticas**: Se identificará qué variables tienen un
 impacto significativo en la precisión de los tiros, utilizando análisis
 estadísticos complementarios.
 
